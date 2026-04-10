@@ -1,4 +1,44 @@
-# BUNDT-BAKERY-
-This web application is designed to streamline the ordering process at a bakery. It provides simple and easy to use digital solutions for customers so they can place an order with a few clicks. Many small bakeries continue to rely on the use of traditional ordering systems, such as phone calls, requesting products in person, and sending messages through social media or websites. These traditional ordering systems can sometimes lead to delays in delivery, confusion over the status of an order, and poor organization of the bakery's orders.
-To address these issues, Bundt Bakery's web application has created a web-based ordering system that allows customers to review products, see details about each product, add items to their shopping cart, and place an order with much greater clarity than traditional methods. Bakery customers will be the primary users of the system; however, the bakery staff will also benefit from providing a well-organized method to manage and present their products.
-The overall goal of the project is to improve the customer experience, decrease the amount of time and/or effort it takes for customers and bakers to place orders, and create a viable web based solution that will ultimately improve the overall efficiency of serving customers.
+
+# Bakery Ordering System
+## Project Description
+
+The Bundt Bakery application is made to make ordering easier for customers. It is a simple system where customers can browse products and place orders easily.
+
+## Problem
+
+Many bakeries still use traditional ways of ordering like phone calls or in-person orders. These methods can cause some problems for both customers and staff:
+
+- Orders can be late, especially during busy times  
+- Customers may get confused about their orders  
+- Orders are not always easy to track or organize  
+- There is no single system to manage all orders  
+
+## Solution
+
+To solve these problems, this project creates a website that makes ordering easier and more organized:
+
+- Customers can browse available products  
+- Customers can see details for each product  
+- Customers can add items to their cart and place orders easily  
+- Customers can choose a suitable pickup time  
+- Staff can manage and track orders more easily  
+- The system helps reduce delays and improve service  
+
+## Target Users
+
+- Customers who want an easy way to order  
+- Bakery staff who need a better system to manage orders  
+
+## Project Objectives
+
+- Improve the customer experience  
+- Reduce waiting time for orders  
+- Make ordering easier and more convenient  
+- Help staff manage orders more effectively  
+- Improve overall efficiency  
+
+## Team Members
+- Shahad Fahad Alhajri  
+- Doha Ali Alhajri  
+- Enas Abu Azzam  
+- Jood Abdullah Alhajri
