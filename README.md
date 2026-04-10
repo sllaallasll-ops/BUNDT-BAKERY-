@@ -39,6 +39,6 @@ To solve these problems, this project creates a website that makes ordering easi
 
 ## Team Members
 - Shahad Fahad Alhajri  
-- Doha Ali Alhajri  
+- Wadha Ali Alhajri  
 - Enas Abu Azzam  
 - Jood Abdullah Alhajri
