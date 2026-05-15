@@ -35,7 +35,31 @@ To solve these problems, this project creates a website that makes ordering easi
 - Reduce waiting time for orders  
 - Make ordering easier and more convenient  
 - Help staff manage orders more effectively  
-- Improve overall efficiency  
+- Improve overall efficiency
+
+- Milestone 2 Updates
+
+In Milestone 2, the Bundt Bakery website was improved and completed as a functional bakery ordering system based on our final UI design.
+
+New files added to the project:
+- contact.html
+- cart.html
+- script.js
+
+Updated files:
+- index.html
+- menu.html
+- product-details.html
+- style.css
+
+Other updates:
+- Added new product images inside the images folder
+- Connected all pages using the navigation bar
+- Added JavaScript features for the website
+- Improved the overall website design and page layout
+
+The website now includes:
+Home Page, Menu Page, Product Details Page, Shopping Cart, and Contact Page.
 
 ## Team Members
 - Shahad Fahad Alhajri  
